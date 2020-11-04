@@ -1,5 +1,6 @@
 package server;
 
-public class ClientThread {
+public class ClientThread 
+{
 
 }
